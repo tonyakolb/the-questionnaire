@@ -90,3 +90,13 @@ label[for="phone"] {
 label[for="phone"] i {
   cursor: pointer;
 }
+
+.notification {
+  display: none;
+  position: fixed;
+  right: 40%;
+  top: 25px;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px;
+} 
